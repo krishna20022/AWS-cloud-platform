@@ -1,5 +1,6 @@
 # AWS-cloud-platform
 DAY-1
+
 Introduction to AWS
 Cloud Computing is the delivery of IT services such as servers, storage, databases, networking, and software over the internet instead of running them on your own physical computers or data center. Organizations can access resources on demand and scale them as needed.
 
@@ -36,9 +37,15 @@ Advantages
 Examples
 Internal company data centers
 VMware-based private cloud environments
+
 **Why public cloud is popular**
+
 Public cloud is popular because it is cost-effective, scalable, easy to use, and does not require organizations to purchase and maintain their own infrastructure. Cloud providers such as Azure, AWS, and GCP manage the infrastructure, allowing companies to focus on their applications and business needs
+
 **Why AWS is more popular**
+
 AWS is popular mainly because it was the first major public cloud provider and got a big head start over Azure and GCP. Many companies started their cloud journey with AWS and continue to use it today
+
 AWS offers one of the largest sets of cloud services covering compute, storage, databases, networking, AI/ML, security, and more
+
 AWS has largest market share
