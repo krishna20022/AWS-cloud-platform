@@ -70,3 +70,4 @@ Why is IAM Important?
 
 IAM provides centralized, fine-grained control over your AWS environment. By using IAM, you can implement the principle of least privilege—giving users and services only the permissions they need to do their job and nothing more. This significantly reduces the risk of unauthorized access and helps maintain a secure cloud environment.
 sgggf
+kittuuuuu
